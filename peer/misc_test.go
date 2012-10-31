@@ -1,8 +1,8 @@
 package peer
 
 import (
-	"github.com/ha/doozer"
-	_ "github.com/ha/doozerd/quiet"
+	"github.com/wangxuesong/doozer"
+	_ "github.com/wangxuesong/doozerd/quiet"
 	"net"
 )
 
