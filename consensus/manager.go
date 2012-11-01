@@ -3,7 +3,7 @@ package consensus
 import (
 	"code.google.com/p/goprotobuf/proto"
 	"container/heap"
-	"github.com/ha/doozerd/store"
+	"github.com/wangxuesong/doozerd/store"
 	"log"
 	"net"
 	"sort"

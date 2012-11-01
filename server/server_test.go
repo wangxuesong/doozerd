@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"code.google.com/p/goprotobuf/proto"
 	"github.com/bmizerany/assert"
-	"github.com/ha/doozerd/store"
+	"github.com/wangxuesong/doozerd/store"
 	"io"
 
 	"testing"

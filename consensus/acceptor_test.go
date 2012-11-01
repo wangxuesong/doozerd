@@ -2,7 +2,7 @@ package consensus
 
 import (
 	"github.com/bmizerany/assert"
-	_ "github.com/ha/doozerd/quiet"
+	_ "github.com/wangxuesong/doozerd/quiet"
 	"testing"
 )
 
